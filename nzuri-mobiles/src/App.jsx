@@ -8,6 +8,7 @@ function App() {
   return(
     <div>
       <Navbar />
+      <h1>Welcome to Nzuri Mobiles</h1>
       </div>
   );
 }
